@@ -1,5 +1,5 @@
 {
-  "updated": "24/08/2026",
+  "updated": "31/08/2026",
   "students": [
     {
       "id": 1001,
@@ -2174,6 +2174,71 @@
     },
     {
       "id": 3014,
+      "name": "Paulo Torquato dos Santos",
+      "email": "divulga.agenciademarketing@gmail.com",
+      "phone": "44991567070",
+      "bloco": 3,
+      "cat": "SÓCIO",
+      "pres1": null,
+      "pres2": null,
+      "pres3": "tbd",
+      "pres4": null,
+      "notes": ""
+    },
+    {
+      "id": 3015,
+      "name": "Diego Aparecido da Silva Granado",
+      "email": "granado.diego.111094@gmail.com",
+      "phone": "14991541818",
+      "bloco": 3,
+      "cat": "SÓCIO",
+      "pres1": null,
+      "pres2": null,
+      "pres3": "tbd",
+      "pres4": null,
+      "notes": ""
+    },
+    {
+      "id": 3016,
+      "name": "Vitor Roberto De Medeiros Duarte",
+      "email": "drvitorduarte@gmail.com",
+      "phone": "87988640606",
+      "bloco": 3,
+      "cat": "SÓCIO",
+      "pres1": null,
+      "pres2": null,
+      "pres3": "tbd",
+      "pres4": null,
+      "notes": ""
+    },
+    {
+      "id": 3017,
+      "name": "Pricilla Aparecida dos Santos Arcod",
+      "email": "pricillaarcos@gmail.com",
+      "phone": "11957321557",
+      "bloco": 3,
+      "cat": "SÓCIO",
+      "pres1": null,
+      "pres2": null,
+      "pres3": "tbd",
+      "pres4": null,
+      "notes": ""
+    },
+    {
+      "id": 3018,
+      "name": "Veronica Cinelli",
+      "email": "vecinelli@gmail.com",
+      "phone": "21979683400",
+      "bloco": 3,
+      "cat": "SÓCIO",
+      "pres1": null,
+      "pres2": null,
+      "pres3": "tbd",
+      "pres4": null,
+      "notes": ""
+    },
+    {
+      "id": 3019,
       "name": "GEORGE SEIXAS",
       "email": "dr.georgeseixas@gmail.com",
       "phone": "9884450710",
@@ -2186,7 +2251,7 @@
       "notes": ""
     },
     {
-      "id": 3015,
+      "id": 3020,
       "name": "RENATO LUIZ DE BARROS",
       "email": "renato@colegiosaodomingossavio.com.br",
       "phone": "11973006577",
@@ -2199,7 +2264,7 @@
       "notes": ""
     },
     {
-      "id": 3016,
+      "id": 3021,
       "name": "EMERSON COSTA",
       "email": "emersonmax6@hotmail.com",
       "phone": "11981740255",
@@ -2212,7 +2277,7 @@
       "notes": ""
     },
     {
-      "id": 3017,
+      "id": 3022,
       "name": "LILIAN ZABOTO",
       "email": "lilianzaboto@uol.com.br",
       "phone": "11996581696",
