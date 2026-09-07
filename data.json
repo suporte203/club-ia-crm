@@ -1,5 +1,5 @@
 {
-  "updated": "31/08/2026",
+  "updated": "07/09/2026",
   "students": [
     {
       "id": 1001,
@@ -2085,7 +2085,7 @@
       "id": 3007,
       "name": "Murilo Brito",
       "email": "murilosmb@gmail.com",
-      "phone": "",
+      "phone": "62997003333",
       "bloco": 3,
       "cat": "SÓCIO",
       "pres1": null,
@@ -2239,6 +2239,110 @@
     },
     {
       "id": 3019,
+      "name": "Antonio Batista dos Santos Neto",
+      "email": "antonioneto@jscosmeticos.com.br",
+      "phone": "75991954000",
+      "bloco": 3,
+      "cat": "SÓCIO",
+      "pres1": null,
+      "pres2": null,
+      "pres3": "tbd",
+      "pres4": null,
+      "notes": ""
+    },
+    {
+      "id": 3020,
+      "name": "Gabriel Elias da Silva Oliveira Nascimento",
+      "email": "",
+      "phone": "8185185603",
+      "bloco": 3,
+      "cat": "SÓCIO",
+      "pres1": null,
+      "pres2": null,
+      "pres3": "tbd",
+      "pres4": null,
+      "notes": ""
+    },
+    {
+      "id": 3021,
+      "name": "Frederico Almeida",
+      "email": "fredericoalmeida1@hotmail.com",
+      "phone": "19996025822",
+      "bloco": 3,
+      "cat": "SÓCIO",
+      "pres1": null,
+      "pres2": null,
+      "pres3": "tbd",
+      "pres4": null,
+      "notes": ""
+    },
+    {
+      "id": 3022,
+      "name": "André Ruppenthal",
+      "email": "andre@demanddaimoveis.com.br",
+      "phone": "51984214889",
+      "bloco": 3,
+      "cat": "SÓCIO",
+      "pres1": null,
+      "pres2": null,
+      "pres3": "tbd",
+      "pres4": null,
+      "notes": ""
+    },
+    {
+      "id": 3023,
+      "name": "Matheus Zimermann",
+      "email": "zimermann@hotmail.com",
+      "phone": "19991490939",
+      "bloco": 3,
+      "cat": "SÓCIO",
+      "pres1": null,
+      "pres2": null,
+      "pres3": "tbd",
+      "pres4": null,
+      "notes": ""
+    },
+    {
+      "id": 3024,
+      "name": "Fernando Alves Diniz",
+      "email": "dr.fernandodiniz1984@gmail.com",
+      "phone": "11989548433",
+      "bloco": 3,
+      "cat": "SÓCIO",
+      "pres1": null,
+      "pres2": null,
+      "pres3": "tbd",
+      "pres4": null,
+      "notes": ""
+    },
+    {
+      "id": 3025,
+      "name": "Aline Ferreira Baldim",
+      "email": "alinebaldim@yahoo.com.br",
+      "phone": "35997315084",
+      "bloco": 3,
+      "cat": "SÓCIO",
+      "pres1": null,
+      "pres2": null,
+      "pres3": "tbd",
+      "pres4": null,
+      "notes": ""
+    },
+    {
+      "id": 3026,
+      "name": "Leidiane Rodrigues da Silveira",
+      "email": "",
+      "phone": "17992631001",
+      "bloco": 3,
+      "cat": "SÓCIO",
+      "pres1": null,
+      "pres2": null,
+      "pres3": "tbd",
+      "pres4": null,
+      "notes": ""
+    },
+    {
+      "id": 3027,
       "name": "GEORGE SEIXAS",
       "email": "dr.georgeseixas@gmail.com",
       "phone": "9884450710",
@@ -2251,7 +2355,7 @@
       "notes": ""
     },
     {
-      "id": 3020,
+      "id": 3028,
       "name": "RENATO LUIZ DE BARROS",
       "email": "renato@colegiosaodomingossavio.com.br",
       "phone": "11973006577",
@@ -2264,7 +2368,7 @@
       "notes": ""
     },
     {
-      "id": 3021,
+      "id": 3029,
       "name": "EMERSON COSTA",
       "email": "emersonmax6@hotmail.com",
       "phone": "11981740255",
@@ -2277,10 +2381,23 @@
       "notes": ""
     },
     {
-      "id": 3022,
+      "id": 3030,
       "name": "LILIAN ZABOTO",
       "email": "lilianzaboto@uol.com.br",
       "phone": "11996581696",
+      "bloco": 3,
+      "cat": "BLACK",
+      "pres1": null,
+      "pres2": null,
+      "pres3": "tbd",
+      "pres4": null,
+      "notes": ""
+    },
+    {
+      "id": 3031,
+      "name": "ZÉ ROBERTO",
+      "email": "zeroberto2@hotmail.com",
+      "phone": "11947527075",
       "bloco": 3,
       "cat": "BLACK",
       "pres1": null,
