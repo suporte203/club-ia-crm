@@ -1,5 +1,5 @@
 {
-  "updated": "14/09/2026",
+  "updated": "21/09/2026",
   "students": [
     {
       "id": 1001,
@@ -2057,7 +2057,7 @@
     },
     {
       "id": 3005,
-      "name": "Irma Cordeiro Gomes",
+      "name": "Irma Cordeiro",
       "email": "irmacordeiro1@gmail.com",
       "phone": "21983154582",
       "bloco": 3,
@@ -2213,19 +2213,6 @@
     },
     {
       "id": 3017,
-      "name": "Pricilla Aparecida dos Santos Arcod",
-      "email": "pricillaarcos@gmail.com",
-      "phone": "11957321557",
-      "bloco": 3,
-      "cat": "SÓCIO",
-      "pres1": null,
-      "pres2": null,
-      "pres3": "tbd",
-      "pres4": null,
-      "notes": ""
-    },
-    {
-      "id": 3018,
       "name": "Veronica Cinelli",
       "email": "vecinelli@gmail.com",
       "phone": "21979683400",
@@ -2238,7 +2225,7 @@
       "notes": ""
     },
     {
-      "id": 3019,
+      "id": 3018,
       "name": "Antonio Batista dos Santos Neto",
       "email": "antonioneto@jscosmeticos.com.br",
       "phone": "75991954000",
@@ -2251,9 +2238,9 @@
       "notes": ""
     },
     {
-      "id": 3020,
+      "id": 3019,
       "name": "Gabriel Elias da Silva Oliveira Nascimento",
-      "email": "",
+      "email": "gabriel.elias.endo@gmail.com",
       "phone": "8185185603",
       "bloco": 3,
       "cat": "SÓCIO",
@@ -2264,7 +2251,7 @@
       "notes": ""
     },
     {
-      "id": 3021,
+      "id": 3020,
       "name": "Frederico Almeida",
       "email": "fredericoalmeida1@hotmail.com",
       "phone": "19996025822",
@@ -2277,7 +2264,7 @@
       "notes": ""
     },
     {
-      "id": 3022,
+      "id": 3021,
       "name": "Matheus Zimermann",
       "email": "zimermann@hotmail.com",
       "phone": "19991490939",
@@ -2290,7 +2277,7 @@
       "notes": ""
     },
     {
-      "id": 3023,
+      "id": 3022,
       "name": "Fernando Alves Diniz",
       "email": "dr.fernandodiniz1984@gmail.com",
       "phone": "11989548433",
@@ -2303,20 +2290,7 @@
       "notes": ""
     },
     {
-      "id": 3024,
-      "name": "Aline Ferreira Baldim",
-      "email": "alinebaldim@yahoo.com.br",
-      "phone": "35997315084",
-      "bloco": 3,
-      "cat": "SÓCIO",
-      "pres1": null,
-      "pres2": null,
-      "pres3": "tbd",
-      "pres4": null,
-      "notes": ""
-    },
-    {
-      "id": 3025,
+      "id": 3023,
       "name": "Leidiane Rodrigues da Silveira",
       "email": "leidianeroh@gmail.com",
       "phone": "17992631001",
@@ -2329,7 +2303,7 @@
       "notes": ""
     },
     {
-      "id": 3026,
+      "id": 3024,
       "name": "Amadeus Mozart Ferreira",
       "email": "amadeusandrich@gmail.com",
       "phone": "27999378038",
@@ -2342,7 +2316,7 @@
       "notes": ""
     },
     {
-      "id": 3027,
+      "id": 3025,
       "name": "Valeria de Souza Andrich",
       "email": "amadeusandrich@gmail.com",
       "phone": "27998787520",
@@ -2355,7 +2329,7 @@
       "notes": ""
     },
     {
-      "id": 3028,
+      "id": 3026,
       "name": "JOÃO BOSCO P. MENEGUELLE",
       "email": "joaopetruci@ortodonti.com.br",
       "phone": "35988340043",
@@ -2368,7 +2342,7 @@
       "notes": ""
     },
     {
-      "id": 3029,
+      "id": 3027,
       "name": "Bruno Subitoni",
       "email": "brunosubitoni@gmail.com",
       "phone": "12991787223",
@@ -2381,7 +2355,7 @@
       "notes": ""
     },
     {
-      "id": 3030,
+      "id": 3028,
       "name": "Luiz Eduardo Oliveira Peloso de Castilho",
       "email": "dudupeloso@gmail.com",
       "phone": "19987119486",
@@ -2394,7 +2368,7 @@
       "notes": ""
     },
     {
-      "id": 3031,
+      "id": 3029,
       "name": "Bruno Almeida Dutra",
       "email": "bruno@dutraodonto.com",
       "phone": "24981363847",
@@ -2407,20 +2381,7 @@
       "notes": ""
     },
     {
-      "id": 3032,
-      "name": "Viviani Rachid",
-      "email": "thiagorachiel_@hotmail.com",
-      "phone": "12997500770",
-      "bloco": 3,
-      "cat": "SÓCIO",
-      "pres1": null,
-      "pres2": null,
-      "pres3": "tbd",
-      "pres4": null,
-      "notes": ""
-    },
-    {
-      "id": 3033,
+      "id": 3030,
       "name": "Melina Subitoni",
       "email": "melinaendo@gmail.com",
       "phone": "12991773813",
@@ -2433,7 +2394,7 @@
       "notes": ""
     },
     {
-      "id": 3034,
+      "id": 3031,
       "name": "Aline Ferreira Baldim",
       "email": "alinebaldim@yahoo.com.br",
       "phone": "35997315084",
@@ -2446,7 +2407,7 @@
       "notes": ""
     },
     {
-      "id": 3035,
+      "id": 3032,
       "name": "IHATTAMURY DE OLIVEIRA ALMEIDA",
       "email": "dra.imury@gmail.com",
       "phone": "11952393916",
@@ -2459,7 +2420,7 @@
       "notes": ""
     },
     {
-      "id": 3036,
+      "id": 3033,
       "name": "Anisío Martins",
       "email": "anisio_dentista@hotmail.com",
       "phone": "17997057775",
@@ -2472,7 +2433,7 @@
       "notes": ""
     },
     {
-      "id": 3037,
+      "id": 3034,
       "name": "Thiago Martins Ferreira",
       "email": "",
       "phone": "",
@@ -2485,7 +2446,7 @@
       "notes": ""
     },
     {
-      "id": 3038,
+      "id": 3035,
       "name": "Lara de Siqueira Zimermann",
       "email": "lara.siqueira@outlook.com.br",
       "phone": "12991076500",
@@ -2498,7 +2459,7 @@
       "notes": ""
     },
     {
-      "id": 3039,
+      "id": 3036,
       "name": "Rodolfo Martins",
       "email": "rmf174@gmail.com",
       "phone": "11941075858",
@@ -2511,7 +2472,7 @@
       "notes": ""
     },
     {
-      "id": 3040,
+      "id": 3037,
       "name": "Francis Dayan",
       "email": "francisdayanpelegrini@gmail.com",
       "phone": "4399386921",
@@ -2524,7 +2485,7 @@
       "notes": ""
     },
     {
-      "id": 3041,
+      "id": 3038,
       "name": "Luis Alberto",
       "email": "luischiecheempresa@gmail.com",
       "phone": "11956632819",
@@ -2537,7 +2498,7 @@
       "notes": ""
     },
     {
-      "id": 3042,
+      "id": 3039,
       "name": "Jovilson Pereira De Carvalho",
       "email": "jovilsoncarvalho@gmail.com",
       "phone": "11976140648",
@@ -2550,12 +2511,51 @@
       "notes": ""
     },
     {
-      "id": 3043,
-      "name": "GEORGE SEIXAS",
-      "email": "dr.georgeseixas@gmail.com",
-      "phone": "9884450710",
+      "id": 3040,
+      "name": "Katarina Melo",
+      "email": "",
+      "phone": "86999524201",
       "bloco": 3,
-      "cat": "BLACK",
+      "cat": "SÓCIO",
+      "pres1": null,
+      "pres2": null,
+      "pres3": "tbd",
+      "pres4": null,
+      "notes": ""
+    },
+    {
+      "id": 3041,
+      "name": "Leonardo Silva Batista",
+      "email": "lsilvaba01@gmail.com",
+      "phone": "12991027999",
+      "bloco": 3,
+      "cat": "SÓCIO",
+      "pres1": null,
+      "pres2": null,
+      "pres3": "tbd",
+      "pres4": null,
+      "notes": ""
+    },
+    {
+      "id": 3042,
+      "name": "Thiago Leandro Gomes Pereira da Silva",
+      "email": "marabertoduo@gmail.com",
+      "phone": "11951740630",
+      "bloco": 3,
+      "cat": "SÓCIO",
+      "pres1": null,
+      "pres2": null,
+      "pres3": "tbd",
+      "pres4": null,
+      "notes": ""
+    },
+    {
+      "id": 3043,
+      "name": "Gabriela da Cruz Silva Souza",
+      "email": "gbscruz@gmail.com",
+      "phone": "11999874482",
+      "bloco": 3,
+      "cat": "SÓCIO",
       "pres1": null,
       "pres2": null,
       "pres3": "tbd",
@@ -2564,11 +2564,11 @@
     },
     {
       "id": 3044,
-      "name": "RENATO LUIZ DE BARROS",
-      "email": "renato@colegiosaodomingossavio.com.br",
-      "phone": "11973006577",
+      "name": "Kenya Seixas",
+      "email": "kenya.bezerra@hotmail.com",
+      "phone": "98985490786",
       "bloco": 3,
-      "cat": "BLACK",
+      "cat": "SÓCIO",
       "pres1": null,
       "pres2": null,
       "pres3": "tbd",
@@ -2577,11 +2577,11 @@
     },
     {
       "id": 3045,
-      "name": "EMERSON COSTA",
-      "email": "emersonmax6@hotmail.com",
-      "phone": "11981740255",
+      "name": "Erica Avallone",
+      "email": "erica.avallone@hotmail.com",
+      "phone": "14997891702",
       "bloco": 3,
-      "cat": "BLACK",
+      "cat": "SÓCIO",
       "pres1": null,
       "pres2": null,
       "pres3": "tbd",
@@ -2590,11 +2590,11 @@
     },
     {
       "id": 3046,
-      "name": "LILIAN ZABOTO",
-      "email": "lilianzaboto@uol.com.br",
-      "phone": "11996581696",
+      "name": "Helio Lima",
+      "email": "helio_limajr@hotmail.com",
+      "phone": "14997752226",
       "bloco": 3,
-      "cat": "BLACK",
+      "cat": "SÓCIO",
       "pres1": null,
       "pres2": null,
       "pres3": "tbd",
@@ -2603,50 +2603,11 @@
     },
     {
       "id": 3047,
-      "name": "ZÉ ROBERTO",
-      "email": "zeroberto2@hotmail.com",
-      "phone": "11947527075",
+      "name": "Rogério Victorino",
+      "email": "rogerioesvictorino@gmail.com",
+      "phone": "11993777389",
       "bloco": 3,
-      "cat": "BLACK",
-      "pres1": null,
-      "pres2": null,
-      "pres3": "tbd",
-      "pres4": null,
-      "notes": ""
-    },
-    {
-      "id": 3048,
-      "name": "BRUNO RAMOS",
-      "email": "bruno@rcontcontabil.com.br",
-      "phone": "3192223937",
-      "bloco": 3,
-      "cat": "BLACK",
-      "pres1": null,
-      "pres2": null,
-      "pres3": "tbd",
-      "pres4": null,
-      "notes": ""
-    },
-    {
-      "id": 3049,
-      "name": "JOYCE MARTINS",
-      "email": "joycepmartins27@gmail.com",
-      "phone": "11983727274",
-      "bloco": 3,
-      "cat": "BLACK",
-      "pres1": null,
-      "pres2": null,
-      "pres3": "tbd",
-      "pres4": null,
-      "notes": ""
-    },
-    {
-      "id": 3050,
-      "name": "JOÃO RUFINO",
-      "email": "joaonetorfn@gmail.com",
-      "phone": "86999448230",
-      "bloco": 3,
-      "cat": "BLACK",
+      "cat": "SÓCIO",
       "pres1": null,
       "pres2": null,
       "pres3": "tbd",
