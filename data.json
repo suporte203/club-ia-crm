@@ -1,5 +1,5 @@
 {
-  "updated": "19/10/2026",
+  "updated": "26/10/2026",
   "students": [
     {
       "id": 1001,
@@ -2658,6 +2658,32 @@
       "name": "Paula Schneider",
       "email": "paula@gruposchneider.com.br",
       "phone": "21987572016",
+      "bloco": 4,
+      "cat": "SÓCIO",
+      "pres1": null,
+      "pres2": null,
+      "pres3": null,
+      "pres4": null,
+      "notes": ""
+    },
+    {
+      "id": 4005,
+      "name": "Sérgio Henrique Cabral Sant’Ana",
+      "email": "sergiosantana@gmail.com",
+      "phone": "6196416342",
+      "bloco": 4,
+      "cat": "SÓCIO",
+      "pres1": null,
+      "pres2": null,
+      "pres3": null,
+      "pres4": null,
+      "notes": ""
+    },
+    {
+      "id": 4006,
+      "name": "Estela Muniz Antelo",
+      "email": "estelama@gmail.com",
+      "phone": "11941851985",
       "bloco": 4,
       "cat": "SÓCIO",
       "pres1": null,
